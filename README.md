@@ -52,3 +52,4 @@ Wordmark text is outlined, so it renders without the webfont.
 - [ ] Verify the domain in Google Search Console and submit `/sitemap.xml`.
 - [ ] Verify in Bing Webmaster Tools (import from Search Console) and submit the same sitemap.
 - [ ] Check the booking form posts somewhere real.
+- [ ] Confirm "founder and director" is the right title if the company is not yet incorporated.
