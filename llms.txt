@@ -9,6 +9,7 @@ Audits are desktop reviews of resident records, carried out remotely or at the p
 - [Use cases](https://supportaudit.co.uk/use-cases/): nine situations where providers use an independent audit
 
 ## Guides
+- [The ASHA inquiry: why auditors must flag conflicts of interest](https://supportaudit.co.uk/resources/asha-inquiry-auditors-flag-conflicts-interest-support-2026/): the 3 November 2026 RSH statutory inquiry into Ash-Shahada Housing Association, and what support-file audits should check on conflicts of interest and third-party payments
 - [Draft licensing rules: how to audit files for the 2026 National Standards](https://supportaudit.co.uk/resources/audit-files-national-standards-licensing-2026/): what resident files must show before draft licensing regulations, including the four-week needs assessment and the fit and proper person test
 - [Supported housing licensing explained](https://supportaudit.co.uk/resources/supported-housing-licensing/): the Supported Housing (Regulatory Oversight) Act 2023, the National Supported Housing Standards, who needs a licence and when
 - [What a good resident support file contains](https://supportaudit.co.uk/resources/resident-support-file/): the ten core documents, common gaps and a self-check
