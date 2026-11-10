@@ -9,6 +9,7 @@ Audits are desktop reviews of resident records, carried out remotely or at the p
 - [Use cases](https://supportaudit.co.uk/use-cases/): nine situations where providers use an independent audit
 
 ## Guides
+- [How to write case notes that pass a support audit](https://supportaudit.co.uk/resources/how-to-write-case-notes-support-audit-2026/): the six things a support session note needs (date and times, who was there, what was done, the support plan goal, risks raised, next action and owner), a weak and a strong invented example, and a ten-note self-check
 - [Awaab's Law Phase 2: when a support note starts the clock](https://supportaudit.co.uk/resources/awaabs-law-phase-2-support-records-2026/): who Awaab's Law covers in supported housing (tenancy, not licence), when the clock starts, the Phase 2 timescales from 30 November 2026 and how support staff should log hazards
 - [The ASHA inquiry: why auditors must flag conflicts of interest](https://supportaudit.co.uk/resources/asha-inquiry-auditors-flag-conflicts-interest-support-2026/): the 3 November 2026 RSH statutory inquiry into Ash-Shahada Housing Association, and what support-file audits should check on conflicts of interest and third-party payments
 - [Draft licensing rules: how to audit files for the 2026 National Standards](https://supportaudit.co.uk/resources/audit-files-national-standards-licensing-2026/): what resident files must show before draft licensing regulations, including the four-week needs assessment and the fit and proper person test
